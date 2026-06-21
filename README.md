@@ -6,9 +6,9 @@
 
 
 THE PHILOSOPHY | الفلسفة التقنية
-> *Code is my perimeter. Don't patch holes. Build walls.*
+> *Code is my perimeter Don't patch holes. Build walls.*
 
-*أرفض الحلول الجاهزة وأكواد الترقيع أبني أنظمة الحماية من الصفر بيدي لأن كودي هو خط دفاعي الأول وأنا اللي أقرر من يدخل ومن يطلع.*
+*أرفض الحلول الجاهزة وأكواد أبني أنظمة الحماية من الصفر بيدي لأن كودي هو خط دفاعي الأول وأنا اللي أقرر من يدخل ومن يطلع.*
 
 💻 GITHUB: iT6F // PYTHON Windows SECURITY DEVELOPER
 
